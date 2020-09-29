@@ -1,0 +1,23 @@
+.box {
+    min-height: 20rem;
+}
+
+.red {
+    background-color: #AA3333;
+}
+
+.yellow {
+    background-color: #AAAA33;
+}
+
+.green {
+    background-color: #338833;
+}
+
+.blue {
+    background-color: #3333AA;
+}
+
+.purple {
+    background-color: #AA33AA;
+}
